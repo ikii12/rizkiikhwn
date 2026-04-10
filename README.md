@@ -19,6 +19,6 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 </div>
 
 ### 🛠️ Tech Stack & Tools
-- **Cybersecurity & Networking:** Kali Linux, Wazuh, Nmap, Sherlock, Ettercap, Cisco Packet Tracer
+- **Cybersecurity & Networking:** Kali Linux, Wazuh, Nmap, Sherlock, Ettercap
 - **Development:** Python (OpenCV, MediaPipe), PHP, Flutter, Java Swing
 - **Hardware & Troubleshooting:** Device Repair, OS Installation, Malware Removal
